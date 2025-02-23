@@ -15,6 +15,8 @@ laravel: php artisan serve
 
 vite: npm run dev
 
+</br>
+
 ## Bug Upload File
 
 and just in any case if you get problem of upload image and didn't show you must reset storage of laravel type this 2 in terminal
@@ -23,15 +25,22 @@ and just in any case if you get problem of upload image and didn't show you must
 
 2. php artisan storage:link
 
+</br>
+
 ## Report Bug
 
 Report any bug if you got problem and if you see any problem in file check our channel telegram for full file just in case
 
+</br>
+
 ## Demo
 
+</br>
 
 ## Support
 i will add after a few days paypal if you guys want to help me to make sure this project w2-Engine be always free open source
+
+</br>
 
 ## License
 The w2 Engine is open-sourced software licensed under the [MIT license].
