@@ -13,12 +13,15 @@ laravel: php artisan serve
 
 vite: npm run dev
 
+## Bug Upload File
+
 and just in any case if you get problem of upload image and didn't show you must reset storage of laravel type this 2 in terminal
 
 1. rm public/storage
 
 2. php artisan storage:link
 
+## Report Bug
 
 Report any bug if you got problem and if you see any problem in file check our channel telegram for full file just in case
 
